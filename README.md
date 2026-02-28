@@ -1,4 +1,4 @@
-# (로고) AI-gym
+# (로고) Form Check Gym
 영상 분석을 통한 자세교정 및 트레이닝 기록 서비스
 
 <a name="readme-top"></a>
